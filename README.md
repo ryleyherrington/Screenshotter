@@ -2,6 +2,8 @@
 
 A macOS app for creating App Store screenshot mockups. Drop in your screenshots, customize the text and styling, and export ready-to-upload images for the App Store.
 
+![Screenshotter App](screenshots/app-preview.png)
+
 ## Features
 
 - **Drag & Drop** - Drop screenshots directly from Finder or iOS Simulator
