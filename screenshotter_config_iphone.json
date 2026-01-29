@@ -1,0 +1,161 @@
+{
+  "exportDate" : 791337050.824676,
+  "screenshots" : [
+    {
+      "id" : "3F24F57F-72D5-425B-AAEA-533E40F43235",
+      "imageName" : "screenshot_1.png",
+      "settings" : {
+        "backgroundColor" : {
+          "alpha" : 1,
+          "blue" : 1,
+          "green" : 1,
+          "red" : 1
+        },
+        "backgroundGradientAngle" : 45,
+        "backgroundGradientEnd" : {
+          "alpha" : 1,
+          "blue" : 0.7408623695373535,
+          "green" : 0.6786948442459106,
+          "red" : 0.6191170811653137
+        },
+        "backgroundGradientStart" : {
+          "alpha" : 1,
+          "blue" : 0.16092580556869507,
+          "green" : 0.14014920592308044,
+          "red" : 0.12178388983011246
+        },
+        "backgroundStyle" : "Gradient",
+        "deviceType" : "iPhone",
+        "screenshotYOffset" : 0,
+        "subtitleFontSize" : 94,
+        "subtitleText" : "Chase Your High Score",
+        "textColor" : {
+          "alpha" : 1,
+          "blue" : 0.981640636920929,
+          "green" : 0.981640636920929,
+          "red" : 0.981640636920929
+        },
+        "textPosition" : "Below",
+        "titleFontSize" : 128,
+        "titleText" : "How Far Can You Go?"
+      }
+    },
+    {
+      "id" : "4C567188-691C-4DB5-B92D-FD4D8EF19B23",
+      "imageName" : "screenshot_2.png",
+      "settings" : {
+        "backgroundColor" : {
+          "alpha" : 1,
+          "blue" : 1,
+          "green" : 1,
+          "red" : 1
+        },
+        "backgroundGradientAngle" : 185,
+        "backgroundGradientEnd" : {
+          "alpha" : 1,
+          "blue" : 0.6589048504829407,
+          "green" : 0.44693422317504883,
+          "red" : 0
+        },
+        "backgroundGradientStart" : {
+          "alpha" : 1,
+          "blue" : 0.31765642762184143,
+          "green" : 0.7371701598167419,
+          "red" : 0.17624276876449585
+        },
+        "backgroundStyle" : "Gradient",
+        "deviceType" : "iPhone",
+        "screenshotYOffset" : 0,
+        "subtitleFontSize" : 94,
+        "subtitleText" : "Change it up",
+        "textColor" : {
+          "alpha" : 1,
+          "blue" : 0.9894533157348633,
+          "green" : 0.9894533157348633,
+          "red" : 0.9894533157348633
+        },
+        "textPosition" : "Below",
+        "titleFontSize" : 128,
+        "titleText" : "Pick Your Vibe"
+      }
+    },
+    {
+      "id" : "2AC53D93-7B0E-4A0B-A3BF-438D39941D78",
+      "imageName" : "screenshot_3.png",
+      "settings" : {
+        "backgroundColor" : {
+          "alpha" : 1,
+          "blue" : 1,
+          "green" : 1,
+          "red" : 1
+        },
+        "backgroundGradientAngle" : 275,
+        "backgroundGradientEnd" : {
+          "alpha" : 1,
+          "blue" : 0.6589048504829407,
+          "green" : 0.44693422317504883,
+          "red" : 0
+        },
+        "backgroundGradientStart" : {
+          "alpha" : 1,
+          "blue" : 1,
+          "green" : 1,
+          "red" : 1
+        },
+        "backgroundStyle" : "Gradient",
+        "deviceType" : "iPhone",
+        "screenshotYOffset" : 0,
+        "subtitleFontSize" : 94,
+        "subtitleText" : "Quick games, big thrills",
+        "textColor" : {
+          "alpha" : 1,
+          "blue" : 0,
+          "green" : 0,
+          "red" : 0
+        },
+        "textPosition" : "Above",
+        "titleFontSize" : 128,
+        "titleText" : "One More Run"
+      }
+    },
+    {
+      "id" : "7703F915-0247-4DCB-ADF7-E0051D5C88A5",
+      "imageName" : "screenshot_4.png",
+      "settings" : {
+        "backgroundColor" : {
+          "alpha" : 1,
+          "blue" : 1,
+          "green" : 1,
+          "red" : 1
+        },
+        "backgroundGradientAngle" : 260,
+        "backgroundGradientEnd" : {
+          "alpha" : 1,
+          "blue" : 0.20007677376270294,
+          "green" : 0.09900134056806564,
+          "red" : 0.07888416945934296
+        },
+        "backgroundGradientStart" : {
+          "alpha" : 1,
+          "blue" : 1,
+          "green" : 1,
+          "red" : 1
+        },
+        "backgroundStyle" : "Gradient",
+        "deviceType" : "iPhone",
+        "screenshotYOffset" : 0,
+        "subtitleFontSize" : 94,
+        "subtitleText" : "Simple controls, endless fun",
+        "textColor" : {
+          "alpha" : 1,
+          "blue" : 0,
+          "green" : 0,
+          "red" : 0
+        },
+        "textPosition" : "Above",
+        "titleFontSize" : 128,
+        "titleText" : "Tap. Dodge. Survive."
+      }
+    }
+  ]
+}
