@@ -2,6 +2,8 @@
 
 A macOS app for creating App Store screenshot mockups. Drop in your screenshots, customize the text and styling, and export ready-to-upload images for the App Store.
 
+Read more about why I built this: [herringtonhq.com/blog/Screenshotter](https://herringtonhq.com/blog/Screenshotter/)
+
 ![Screenshotter App](screenshots/app-preview.png)
 
 ## Features
@@ -41,9 +43,9 @@ A macOS app for creating App Store screenshot mockups. Drop in your screenshots,
 ## JSON Configuration
 
 You can export and import project settings as JSON, making it easy to:
-- Save your styling choices for later
-- Share configurations between team members
-- Script batch operations
+- **Edit later** - Save your config alongside your screenshots. When you need to update them for a new app version months later, import the config and your styling is exactly where you left it.
+- **Stay consistent** - Share configurations between team members or across multiple apps
+- **Iterate quickly** - Tweak the JSON directly for batch changes
 
 Example configuration:
 ```json
